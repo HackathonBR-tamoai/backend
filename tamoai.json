@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Teste Nome",
+      "lastName": "Teste Sobrenome",
+      "email": "teste@teste.com",
+      "celphone": "99 99999-9999",
+      "password": "e8d95a51f3af4a3b134bf6bb680a213a",
+      "avatar": 2,
+      "profile": 2,
+      "carrer": 1
+    }
+  ],
+  "avatars": [
+    {
+      "id": 1,
+      "color": "blue",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "color": "green",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "color": "red",
+      "image": ""
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Espacial",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Lógico-matemática",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Físico-cinestésica",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Linguística",
+      "image": ""
+    }
+  ],
+  "carrers": [
+    {
+      "id": 1,
+      "name": "PROGRAMADOR(A)",
+      "description": "Desenvolvimento de aplicações e rotinas para diversos dispositivos."
+    },
+    {
+      "id": 2,
+      "name": "MARKETING DIGITAL",
+      "description": "Gerenciar e acompanhar campanhas ou postagens de clientes, estratégias e desenvolvimento de conteúdos."
+    },
+    {
+      "id": 3,
+      "name": "SUPORTE AO CLIENTE",
+      "description": "Atendimento e suporte à clientes, garantindo a melhor experiência e resolução de problemas."
+    },
+    {
+      "id": 4,
+      "name": "DPO (Data Protection Officer) ",
+      "description": "Criar regras e políticas de proteção dos dados da empresa e de clientes de acordo do a LGPD (Lei Geral de Proteção de Dados)."
+    }
+  ]
+}
